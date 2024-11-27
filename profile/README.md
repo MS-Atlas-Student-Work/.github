@@ -8,7 +8,7 @@
 </td>
 <td valign="top" width="45%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=perl,c,c%23,c%2B%2B,tcl,makefile,m4&langs_count=6&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Atlas-Student-Work&hide_border=true&layout=donut&hide=perl,c,c%23,c%2B%2B,tcl,makefile,m4&langs_count=6&hide_title=true)
 
 </td>
 </tr>

@@ -3,7 +3,7 @@
   <tr>
     <td valign="top" width="55%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ms-atlas-student-work&show_icons=true&count_private=false&hide_border=true&include_orgs=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MS-Atlas-Student-Work&show_icons=true&count_private=false&hide_border=true&include_orgs=true)
 
 </td>
 <td valign="top" width="45%">
